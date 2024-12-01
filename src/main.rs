@@ -1,3 +1,5 @@
+mod day1a;
+
 fn main() {
-    println!("Hello, world!");
+    day1a::solve()
 }
