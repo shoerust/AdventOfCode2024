@@ -1,5 +1,5 @@
-mod day3a;
+mod day3b;
 
 fn main() {
-    day3a::solve();
+    day3b::solve();
 }
